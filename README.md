@@ -4,6 +4,9 @@
 
 #### 리눅스 명령어 관련 sed / awk
 
+
+##### getopt
+
 ```c
 #include <unistd.h >
 
@@ -26,7 +29,7 @@ getopt 함수는 이번에 발견한 옵션의 아스키코드값을 반환하�
 
 
 
-
+##### getopts
 
 
 ```
